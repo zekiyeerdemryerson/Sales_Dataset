@@ -9,3 +9,6 @@
 #### Visualization using matplot lib.
 #### What products are most often sold together?
 #### What product sold the most? Why do you think it sold the most?
+
+
+#### Lastly, special thanks to Keith Galli and his videos, which helps me a lot!
